@@ -18,7 +18,7 @@ A drop‑in replacement for WinForms’ built‑in `TabControl` that removes the
 | **Uniform Heights**       | Forces `TabAppearance.Normal` to 24 px so it lines up with Buttons/FlatButtons.                                 |
 | **Per-tab Theming**       | Store a `BorderlessTabControl.TabColorInfo` in `TabPage.Tag` to change the caption and face color individually. |
 | **Pixel-perfect Images**  | Enable `NearestNeighborStretch` to scale pixel-art backgrounds without blur.                                    |
-| **One-liner Theming**     | Call `RecolorAllTabs(ThemeMode.Dark|Light)` to recolor every tab.                                               |
+| **One-liner Theming**     | Call `RecolorAllTabs(ThemeMode.Dark\|Light)` to recolor every tab.                                               |
 
 ---
 
