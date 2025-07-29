@@ -1,4 +1,3 @@
-
 # BorderlessTabControl
 
 A drop‑in replacement for WinForms’ built‑in `TabControl` that removes the OS‑drawn border, paints its own buttons (owner‑draw), and keeps the page area _truly_ transparent so the parent control can shine through.
@@ -41,7 +40,7 @@ A drop‑in replacement for WinForms’ built‑in `TabControl` that removes the
 
            var tabs = new BorderlessTabControl
            {
-               Dock = DockStyle.Fill,       // or wherever you like
+               Dock = DockStyle.Fill, // Or wherever you like.
                Appearance = TabAppearance.FlatButtons
            };
 
