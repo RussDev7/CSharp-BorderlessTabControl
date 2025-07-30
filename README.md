@@ -3,6 +3,7 @@
 A drop‑in replacement for WinForms’ built‑in `TabControl` that removes the OS‑drawn border, paints its own buttons (owner‑draw), and keeps the page area _truly_ transparent so the parent control can shine through.
 
 - It’s part of **[Core Keepers Workshop](https://github.com/RussDev7/CoreKeepersWorkshop)** and is released under the **GNU GPL v3**.
+  - Also check out the [CustomFormStyler (TitleBarManager)](https://github.com/RussDev7/CSharp-RoundedFormsClass).
 
 ![CustomGUIUpdateRaw](https://github.com/user-attachments/assets/af62700a-807c-40a3-aabc-e5c669be9049)
 
